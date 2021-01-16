@@ -1,0 +1,9 @@
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\bin\Release\Jogo-da-velha.exe
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\bin\Release\Jogo-da-velha.pdb
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo_da_velha.Form1.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo_da_velha.OP.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo_da_velha.PVE.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo-da-velha.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo-da-velha.exe
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Release\Jogo-da-velha.pdb

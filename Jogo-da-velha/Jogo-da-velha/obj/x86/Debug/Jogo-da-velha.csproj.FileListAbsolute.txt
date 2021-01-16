@@ -1,0 +1,17 @@
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\bin\Debug\Jogo-da-velha.exe
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\bin\Debug\Jogo-da-velha.pdb
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.Form1.resources
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.csproj.GenerateResource.Cache
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.exe
+C:\Users\Pichau\AppData\Local\Temporary Projects\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.pdb
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.exe
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.pdb
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\bin\Debug\Jogo-da-velha.exe
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\bin\Debug\Jogo-da-velha.pdb
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.Form1.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.OP.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo_da_velha.PVE.resources
+C:\Users\Pichau\Desktop\AT\Jogo-da-velha\Jogo-da-velha\obj\x86\Debug\Jogo-da-velha.csprojResolveAssemblyReference.cache
